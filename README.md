@@ -23,4 +23,4 @@ They wanted the design to include:</p>
 •	Any general cloud recommendations you feel are appropriate.<br>
 Our client is a financial organisation who must always consider security, GDPR and where customer data is located.<br>
 <b></b>My Solution:</b><br>
-<p><img src="Cloud-Agnostic.png" alt="QADev Newtork Diagram" width="900" height="600"></p>
+<p><img src="Cloud-Agnostic.png" alt="Quantum Accounting" width="850" height="500"></p>
